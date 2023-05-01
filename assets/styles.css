@@ -1,0 +1,44 @@
+html {
+  margin: 0;
+}
+
+.header h4 {
+  width: 1048px;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
+
+.header-atas-text h4 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  margin-bottom: 100px !important;
+}
+
+.best-seller .header-best p {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 30px;
+  margin-left: 15px;
+}
+
+.best-seller .header-best img {
+  width: 50px;
+}
+
+.category .card .card-text {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.footer1 h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.footer1 .sosial {
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  font-size: 20px;
+}
